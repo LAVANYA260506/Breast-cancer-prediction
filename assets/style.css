@@ -1,0 +1,32 @@
+.BUP6fTcR.css{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color:aliceblue;
+
+}
+.diagnosis{
+    color: antiquewhite;
+
+    padding: 0.2em 0.5em;
+    border-radius: 0.5em;
+}
+
+.diagnosis.benign{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 12px;
+    margin-top: 1rem;
+    font-style: bold;
+    font-weight: 800;
+    background-color: green;
+}
+
+.diagnosis.malicious{
+    text-align: center;
+    padding: 1rem;
+    border-radius: 12px;
+    margin-top: 1rem;
+    background-color: red;
+    font-style: bold;
+    font-weight: 800;
+}
